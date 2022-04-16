@@ -1,4 +1,4 @@
-# Projeto-IC - Realidade Virtual
+# Projeto IC - Realidade Virtual
 
 Projeto feito em LaTeX da disciplina de Introdução a Computação sobre Realidade Virtual
 
